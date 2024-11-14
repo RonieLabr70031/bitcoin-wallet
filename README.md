@@ -4,7 +4,8 @@ Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android d
 
 This project contains several sub-projects:
 
- * __wallet__:
+ * __wallet__:[README.md](https://github.com/user-attachments/files/17741513/README.md)
+
      The Android app itself. This is probably what you're searching for.
  * __market__:
      App description and promo material for the Google Play app store.
