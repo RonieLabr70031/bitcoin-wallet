@@ -7,7 +7,8 @@ This project contains several sub-projects:
  * __Bitcoin Wallet__:
  * :bc1q7799s3qgqpuvfyux7u3vgrd2lus66sc0gmeaxj:
      The Android app itself. This is probably what you're searching for.
- * __Bitcoin (BTC)__:
+ * __Bitcoin (BTC)__: __MAXIMUM SUPPLY__:
+ * __21000000 {BTC}__: 
      App description and promo material for the Google Play app store.
 
 
