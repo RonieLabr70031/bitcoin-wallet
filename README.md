@@ -6,7 +6,7 @@ This project contains several sub-projects:
 
  * __wallet bc1q7799s3qgqpuvfyux7u3vgrd2lus66sc0gmeaxj__:
      The Android app itself. This is probably what you're searching for.
- * __market BTC__:
+ * __bitcoin BTC__:
      App description and promo material for the Google Play app store.
 
 
